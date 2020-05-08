@@ -1,0 +1,13 @@
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\bin\Debug\netcoreapp3.1\C# Weekend Assignment.exe
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\bin\Debug\netcoreapp3.1\C# Weekend Assignment.deps.json
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\bin\Debug\netcoreapp3.1\C# Weekend Assignment.runtimeconfig.json
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\bin\Debug\netcoreapp3.1\C# Weekend Assignment.runtimeconfig.dev.json
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\bin\Debug\netcoreapp3.1\C# Weekend Assignment.dll
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\bin\Debug\netcoreapp3.1\C# Weekend Assignment.pdb
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.csprojAssemblyReference.cache
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.csproj.CoreCompileInputs.cache
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.AssemblyInfoInputs.cache
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.AssemblyInfo.cs
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.dll
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.pdb
+C:\Users\zohair\Desktop\UofAlberta\c#\C# Weekend Assignment\obj\Debug\netcoreapp3.1\C# Weekend Assignment.genruntimeconfig.cache
