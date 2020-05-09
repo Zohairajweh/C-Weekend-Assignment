@@ -8,37 +8,40 @@ namespace C__Weekend_Assignment
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine(" Please Enter Your file Name:");
+              int counter = 0;
+                            Console.WriteLine(" Please Enter Your file Name:");
             string FileName = Console.ReadLine();
+ while (counter < 3){ 
+                counter++;
+                Console.WriteLine("step"+counter);
+            if (counter == 1)
+                {
+          
             File.WriteAllText(FileName, " ");
             Console.WriteLine("Your file name is " + FileName);
 
+                }
+ if (counter == 2)
+                {
+               
             Console.WriteLine("Split inside file");
             string myContent = Console.ReadLine();
             string[] myContentArray = myContent.Split(" ");
-            foreach (string element in myContentArray)
-            {
-                File.WriteAllText(FileName,element);
-                Console.WriteLine(element);
 
+            for (int pos = 0; pos < myContentArray.Length; pos++){
+                File.WriteAllText(FileName,myContentArray[pos]);
+                Console.WriteLine(myContentArray[pos]);
             }
+ } }
 
+   if (counter == 3)
+                {
+                Console.WriteLine("End Loop");
 
-        
-               int counter = 0; 
+                    return;
 
-                do { //A do while loop will ensure the code executes at least once before condition is checked
-                    counter++;
-                    Console.WriteLine(counter);
-                     if (counter == 3) {
-return;
-                } 
-                } 
-                
-                while (counter <3);
+                }
 
-              
 
         }
     }
